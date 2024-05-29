@@ -23,6 +23,7 @@ The project has been developed in Julia 1.9.1 and relies on the packages listed 
 - [supplementary_original_model_glyc_fit_to_noisy_data](sup_original_model_glyc_fit_to_noisy_data): parameter fit with the original yeast glycolysis model to the dataset $DS_{0.05}$.
 - [supplementary_identifiability_hyperparameter_analysis](sup_identifiability_hyperparameter_analysis): analysis of the impact of the choice of $\delta$ and $\epsilon$ on the identifiability results.
 
+
 ### Paper figures and tables
 - [paper_latex_table_printer](paper_latex_table_printer): code to generate the tables of the paper.
 - [paper_plot_generator](paper_plot_generator): code to generate the plots of the paper.
