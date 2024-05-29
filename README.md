@@ -18,11 +18,10 @@ The project has been developed in Julia 1.9.1 and relies on the packages listed 
 - [Step 4](step4_confidence_intervals): code to estimate the confidence intervals.
 
 ### Other analyses
-- [supplementary_cell_ap_model_identifiability](sup_cell_ap_model_identifiability): identifiability analysis of the parameters in the original cell apoptosis model.
-- [supplementary_lotka_volterra_regularization](sup_lotka_volterra_regularization): analysis of the regularizer profile with different values of $\alpha$ in the Lotka Volterra HNODE model.
-- [supplementary_original_model_glyc_fit_to_noisy_data](sup_original_model_glyc_fit_to_noisy_data): parameter fit with the original yeast glycolysis model to the dataset $DS_{0.05}$.
-- [supplementary_identifiability_hyperparameter_analysis](sup_identifiability_hyperparameter_analysis): analysis of the impact of the choice of $\delta$ and $\epsilon$ on the identifiability results.
-
+- [supplementary_cell_ap_model_identifiability](supplementary_cell_ap_model_identifiability): identifiability analysis of the parameters in the original cell apoptosis model.
+- [supplementary_lotka_volterra_regularization](supplementary_lotka_volterra_regularization): analysis of the regularizer profile with different values of $\alpha$ in the Lotka Volterra HNODE model.
+- [supplementary_original_model_glyc_fit_to_noisy_data](supplementary_original_model_glyc_fit_to_noisy_data): parameter fit with the original yeast glycolysis model to the dataset $DS_{0.05}$.
+- [supplementary_identifiability_hyperparameter_analysis](supplementary_identifiability_hyperparameter_analysis): analysis of the impact of the choice of $\delta$ and $\epsilon$ on the identifiability results.
 
 ### Paper figures and tables
 - [paper_latex_table_printer](paper_latex_table_printer): code to generate the tables of the paper.
