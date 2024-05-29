@@ -1,0 +1,22 @@
+    \begin{tabular}{cccc}
+        \toprule
+        \multicolumn{2}{l}{} &  \multicolumn{2}{c}{\textbf{Tuned value}}\\
+        \textbf{Name} & \textbf{Search Space} & \textbf{$DS_{0.00}$} & \textbf{$DS_{0.05}$} \\
+        \midrule
+        \multicolumn{4}{l}{\emph{Neural network architecture }} \\
+        \midrule
+        hidden layer number & $\{2,3\}$ & $##h_l_n_00##$ & $##h_l_n_05##$\\
+        hidden layer width & $\{4, 8, 16, 32\}$ & $##h_n_n_00##$ & $##h_n_n_05##$\\
+        \midrule
+        \multicolumn{4}{l}{\emph{Starting values for mechanistic parameters}} \\
+        \midrule
+		##physical_parameter_row##
+        \midrule
+        \multicolumn{4}{l}{\emph{Training hyper-parameters}} \\
+        \midrule
+        learning rate & $[10^{-5}, 10^{-1}]$ & $##lr_00##$ & $##lr_05##$\\
+        $\lambda$ & $\{10^{-3}, 10^{-2}, 10^{-1}, 1\}$ & ND & $##lambda_00##$ \\
+        $k$ (segmentation) & $\{2,3,4,5,6,7,8,9,10\}$ & $##k_00##$ & $##k_05##$ \\
+        $\rho$ & $[10^{-3}, 10^{3}]$ & $##rho_00##$ & $##rho_05##$ \\
+        \bottomrule
+    \end{tabular} 
