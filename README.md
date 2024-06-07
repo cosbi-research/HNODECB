@@ -1,5 +1,5 @@
 # Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology
-Code for the paper ***Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology***.
+Code for the paper [S. Giampiccolo, F. Reali, A. Fochesato, G. Iacca & L. Marchetti. Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology. 2024](https://doi.org/10.1101/2024.06.04.597372)
 
 ## Code
 
@@ -11,7 +11,7 @@ The project has been developed in Julia 1.9.1 and relies on the packages listed 
 - The directory [datasets](datasets) contains the code to generate the *in-silico* training datasets.
 
 ### Pipeline
-- [Step 1](): the training-validation split is performed at the beginning of the scripts in each of the following steps.
+- Step 1: the training-validation split is performed at the beginning of the scripts in each of the following steps.
 - [Step 2A](step2a_hyperparameter_tuning): code to tune the hyperparameters (both first and second stage).
 - [Step 2B](step2b_model_trainer): code to train the HNODE models.
 - [Step 3](step3_parameters_identifiability): code to perform the identifiability analysis.
