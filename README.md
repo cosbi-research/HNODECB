@@ -22,6 +22,9 @@ The project has been developed in Julia 1.9.1 and relies on the packages listed 
 - [supplementary_lotka_volterra_regularization](/cosbi-research/HNODECB/tree/main/supplementary_lotka_volterra_regularization): analysis of the regularizer profile with different values of $\alpha$ in the Lotka Volterra HNODE model.
 - [supplementary_original_model_glyc_fit_to_noisy_data](/cosbi-research/HNODECB/tree/main/supplementary_original_model_glyc_fit_to_noisy_data): parameter fit with the original yeast glycolysis model to the dataset $DS_{0.05}$.
 - [supplementary_identifiability_hyperparameter_analysis](/cosbi-research/HNODECB/tree/main/supplementary_identifiability_hyperparameter_analysis): analysis of the impact of the choice of $\delta$ and $\epsilon$ on the identifiability results.
+- [supplementary_cell_ap_stiffnesss_analysis](/cosbi-research/HNODECB/tree/main/supplementary_cell_ap_stiffnesss_analysis): analysis of the stiffness ratio of the cell apoptosis original model.
+- [supplementary_impact_of_neural_network_on_system_dynamics](/cosbi-research/HNODECB/tree/main/supplementary_impact_of_neural_network_on_system_dynamics): analysis of the impact of the neural network on the system dynamics in each test case.
+
 
 ### Paper figures and tables
 - [paper_latex_table_printer](paper_latex_table_printer): code to generate the tables of the paper.

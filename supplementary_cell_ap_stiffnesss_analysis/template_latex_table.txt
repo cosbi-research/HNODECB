@@ -1,0 +1,11 @@
+    \begin{tabular}{ccc}
+        \toprule
+        \textbf{Time} &  #TIME_PLACEHOLDER#\\
+        \midrule
+        \textbf{Stiffness ratio} & #SR_PLACEHOLDER#\\
+         \midrule
+        \textbf{$|\lambda_{max}|$} &  #MAXE_PLACEHOLDER#\\
+         \midrule
+        \textbf{$|\lambda_{min}|$} &  #MINE_PLACEHOLDER#\\
+         \bottomrule
+    \end{tabular} 
