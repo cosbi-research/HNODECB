@@ -1,5 +1,5 @@
 # Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology
-Code for the paper [S. Giampiccolo, F. Reali, A. Fochesato, G. Iacca & L. Marchetti. Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology. 2024](https://doi.org/10.1101/2024.06.04.597372)
+Code for the paper [S. Giampiccolo, F. Reali, A. Fochesato, G. Iacca & L. Marchetti. Robust parameter estimation and identifiability analysis with Hybrid Neural Ordinary Differential Equations in Computational Biology. 2024]((https://doi.org/10.1038/s41540-024-00460-3))
 
 ## Code
 
